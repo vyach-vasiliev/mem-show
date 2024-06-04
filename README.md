@@ -1,4 +1,4 @@
-# MemShow ![](https://img.shields.io/badge/version-1.1.0-blue)
+# MemShow [![](https://img.shields.io/badge/version-1.1.0-blue)](../../releases/latest) [![](https://img.shields.io/badge/VirusTotal-0%2F67-blue?logo=virustotal)](https://www.virustotal.com/gui/file/e12beb3875ad42d2d668a07634fd8f406365d3c7e16f807fcb888d6653d4471c?nocache=1)
 
 A small application for checking memory in the menu on the taskbar.<br>
 Download latest version: [Release page](../../releases/latest) <br>
