@@ -1,4 +1,4 @@
-# MemShow [![](https://img.shields.io/badge/version-1.1.0-blue)](../../releases/latest) [![](https://img.shields.io/badge/VirusTotal-No_viruses-blue?logo=virustotal)](https://www.virustotal.com/gui/file/aa0abeb291879c9bb198ebd5658e502a38bfa41a793e4932e4b05f7560d07a62)
+# <img src="https://mem-show.onrender.com/assets/img/favicons/favicon-32x32.png" width="24"/> MemShow [![](https://img.shields.io/badge/version-1.1.0-blue)](../../releases/latest) [![](https://img.shields.io/badge/VirusTotal-No_viruses-blue?logo=virustotal)](https://www.virustotal.com/gui/file/aa0abeb291879c9bb198ebd5658e502a38bfa41a793e4932e4b05f7560d07a62)
 
 A small application for checking memory in the menu on the taskbar.<br>
 Download latest version: [Release page](../../releases/latest) <br>
